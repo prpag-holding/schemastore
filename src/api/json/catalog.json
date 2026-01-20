@@ -3718,6 +3718,14 @@
       "url": "https://raw.githubusercontent.com/graeter-group/kimmdy/main/src/kimmdy/kimmdy-yaml-schema.json"
     },
     {
+      "name": "KCFlow configuration file",
+      "description": "Configuration file for KCFlow CLI",
+      "fileMatch": [
+      "kcflow.config.json"
+      ],
+      "url": "https://api.kcflow.dev/kcflow-schema.json"
+    },
+    {
       "name": "Kestra flow file",
       "description": "Kestra Flow definition file, see: kestra.io/docs/workflow-components/flow#flow-sample",
       "fileMatch": ["**/flows/*.yml"],
